@@ -1,0 +1,6 @@
+{
+  "name": "Solara Energy",
+  "description": "Direct residential solar installation with one crew from site assessment through final inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
